@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TejasPrasad468
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c programming
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
