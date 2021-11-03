@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @TejasPrasad468
+- 👋 Hi, I’m Tejas Prasad
+- 🧐 I'm Currently pursuing Engg in Elect. and computer Science from Pillai College of Engineering 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
